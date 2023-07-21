@@ -84,12 +84,12 @@ author:
   avatar           : "profile.jpg"
   bio              : "Political Scientist ruining the things you enjoy"
   location         : "Los Angeles, CA"
-  employer         : [MIT](https://polisci.mit.edu/people/esteban-m-fernandez)
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "estebanf@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : https://polisci.mit.edu/people/esteban-m-fernandez 
   bitbucket        :
   codepen          :
   dribbble         :
