@@ -14,3 +14,9 @@ I am an experienced survey and quantitative scholar. I have designed, implemente
 Before joining MIT I was a researcher at California State University, Fullerton's Center for Economic Education. I received a BA in Economics and Political Science and an MA in Economics at CSUF as well. 
 
 When I am not working I enjoy playing/watching basketball, watching what my partner refers to as "long and pretentious" movies, and independent label/ Golden Era hip-hop. 
+
+Education
+======
+* B.A. in Economics & Political Science, CSUF, 2013
+* M.A. in Economics, CSUF, 2017
+* Ph.D in Political Science, MIT, 2025 (expected)
