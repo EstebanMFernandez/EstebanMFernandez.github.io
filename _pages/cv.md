@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[CV](https://EstebanMFernandez.github.io/files/example.pdf)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
